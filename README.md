@@ -49,7 +49,7 @@ pip2 install
 pip install telegram
 pip install python-telegram-bot
 pip install telegram-bot
-git clone https://github.com/Master-Bruno/FB-INSTA
+git clone https://www.facebook.com/profile.php?id=61550298927334&mibextid=ZbWKwL
 cd FB-INSTA
 ls
 git pull
